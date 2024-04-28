@@ -1,9 +1,8 @@
-﻿DateTime==5.4
-numpy==1.26.4
-pandas==2.2.0
-plotly==5.19.0
-prophet==1.1.5
+matplotlib==3.5.2
+pandas==1.4.3
+plotly==5.9.0
+prophet==1.1.4
+streamlit==1.11.0
+streamlit_option_menu==0.3.2
+yfinance==0.1.74
 stocknews==0.9.11
-streamlit==1.31.1
-streamlit-option-menu==0.3.12
-yfinance==0.2.36
