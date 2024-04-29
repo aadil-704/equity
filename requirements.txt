@@ -33,5 +33,5 @@ streamlit-option-menu==0.3.12
 vaderSentiment==3.3.2
 visions==0.7.6
 yahoo-fin==0.8.9.1
-yfinance==0.2.36
+yfinance==0.2.38
 
