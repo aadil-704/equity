@@ -65,7 +65,7 @@ def main():
     # Streamlit UI
     st.markdown(
         """
-        <h1 style='text-align: center; color: black;'>📈Equity Research Screener📈</h1>
+        <h1 style='text-align: center; color: black;'>📈Finance Tracker📈</h1>
         """,
         unsafe_allow_html=True
     )
